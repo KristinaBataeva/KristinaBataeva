@@ -9,11 +9,16 @@
 ---
 
 ### :hammer_and_wrench: Какими инструментами я владею?
-  Python(pandas, numpy, sklearn, scipy,  statsmodels, seaborn) , SQL, tableau, yandex data lens, git, airflow, excel
+  - Трогаю данные с помощью:
+  Python(pandas, numpy, sklearn, scipy,  statsmodels, seaborn), SQL, excel
+  - Визуализирую в
+  tableau, yandex data lens, 
+  - Для полного комфорта есть
+  git, airflow
 ### :books: Основное образование
   Я закончила факультет психологии СПбГУ, до этого два года училась В ИТМО. В ИТМО я получила математическую базу, в СПбГУ изучила прикладную статистику и логику исследования
 </div>
-
+### :Scroll: Основное образование
 
 
 <!--
