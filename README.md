@@ -12,9 +12,11 @@
   - Трогаю данные с помощью:
   
   Python(pandas, numpy, sklearn, scipy,  statsmodels, seaborn), SQL, excel
+  
   - Визуализирую в
   
   tableau, yandex data lens, 
+  
   - Для полного комфорта есть
   
   git, airflow
