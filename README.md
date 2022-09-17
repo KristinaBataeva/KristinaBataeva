@@ -9,15 +9,15 @@
 ---
 
 ### :hammer_and_wrench: Какими инструментами я владею?
-  - Трогаю данные с помощью:
+  - Трогаю данные с помощью...
   
  <b> Python(pandas, numpy, sklearn, scipy,  statsmodels, seaborn), SQL, excel </b>
   
-  - Визуализирую в
+  - Визуализирую в...
   
  <b> tableau, yandex data lens </b>
   
-  - Для полного комфорта есть
+  - Для полного комфорта есть...
   
  <b> git, airflow </b>
 ### :books: Основное образование
