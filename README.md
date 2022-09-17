@@ -11,15 +11,15 @@
 ### :hammer_and_wrench: Какими инструментами я владею?
    :telescope: Трогаю данные с помощью...
   
- - <b> Python(pandas, numpy, sklearn, scipy,  statsmodels, seaborn), SQL, excel </b>
+  <b> Python(pandas, numpy, sklearn, scipy,  statsmodels, seaborn), SQL, excel </b>
   
    :bar_chart: Визуализирую в...
   
- - <b> tableau, yandex data lens </b>
+  <b> tableau, yandex data lens </b>
   
    :saxophone: Для полного комфорта есть...
   
- - <b> git, airflow </b>
+  <b> git, airflow </b>
   
   ---
 ### :books: Основное образование
