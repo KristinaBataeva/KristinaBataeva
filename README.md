@@ -1,8 +1,9 @@
 <div id="header" align="center">
+  <h1>
+  hey there 👋
   <img src="https://media.giphy.com/media/5PDOmkYeA8rdK/giphy.gif" width="100"/>
+  </h1>
 </div>
-
-### Hi there 👋
 
 <!--
 **KristinaBataeva/KristinaBataeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
